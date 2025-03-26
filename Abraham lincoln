@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Abraham Lincoln Portfolio</title>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <nav>
+                <ul>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Speeches</a></li>
+                    <li><a href="">Leadership</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <main class="content">
+            <section class="hero">
+                <img src="lincoln.png" alt="Abraham Lincoln" />
+                <div class="hero-content">
+                    <h1>Abraham Lincoln</h1>
+                    <h2>16th President of the United States</h2>
+                    <p>
+                        Known for his leadership during the American Civil War and his efforts to abolish slavery, Abraham Lincoln remains one of the most respected figures in history.
+                    </p>
+                    <a href="" class="action-btn">Learn More</a>
+                </div>
+            </section>
+        </main>
+        <div class="footer">
+            <footer>
+                <ul>
+                    <li>
+                        <img src="instagram.png" alt="Instagram Logo" />
+                        <a href="#"><p>Instagram</p></a>
+                    </li>
+                    <li>
+                        <img src="facebook.png" alt="Facebook Logo" />
+                        <a href="#"><p>Facebook</p></a>
+                    </li>
+                    <li>
+                        <img src="twitter.png" alt="Twitter Logo" />
+                        <a href="#"><p>Twitter</p></a>
+                    </li>
+                    <li>
+                        <img src="telegram.png" alt="Telegram Logo" />
+                        <a href="#"><p>Telegram</p></a>
+                    </li>
+                </ul>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
