@@ -30,7 +30,9 @@
                         manusia itu harus menjadi tanggung jawab mu tapi selalu utamakan keluarga dulu ibu,ayah,adik-adiku
                         bahagiakan mereka terlebih dahulu
                     </p>
-                    <a href="" class="action-btn">Profile Saya</a>
+                    <!-- Updated to include your image -->
+    <img src="WIN_20241013_21_19_00_Pro.jpg" alt="Foto Mochamad Naufal Bayu Nugraha" class="profile-photo" />
+    <a href="" class="action-btn">Profile Saya</a>
                 </div>
             </section>
         </main>
